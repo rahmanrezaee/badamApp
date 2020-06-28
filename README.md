@@ -1,6 +1,13 @@
 # badam
 
-A new Flutter project.
+Badam App
+
+after clone run this commend
+
+ ```ruby
+flutter packages get
+```
+
 
 ## Getting Started
 
